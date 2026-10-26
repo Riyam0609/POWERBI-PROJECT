@@ -1,0 +1,406 @@
+﻿Date,User ID,Transaction ID,Transaction Type,Transaction Value,Revenue,User Age,User Gender,City,Device Used,User Retention,Time of Day,Day of the Week,User Type
+16:39.4,User_52,Txn_1,Recharge,2990.6,38.79,52,Male,Pune,Tablet,Retained,15,Monday,New
+16:39.4,User_93,Txn_2,Peer-to-Peer,2022,73.31,43,Other,Delhi,Tablet,New,8,Wednesday,Returning
+16:39.4,User_15,Txn_3,Recharge,2243.63,33.23,25,Other,Chennai,Desktop,New,8,Wednesday,New
+16:39.4,User_72,Txn_4,Recharge,4530.38,58.81,53,Male,Chennai,Desktop,Retained,5,Saturday,New
+16:39.4,User_61,Txn_5,Recharge,1806.45,50.22,47,Other,Hyderabad,Desktop,Churned,10,Monday,Returning
+16:39.4,User_21,Txn_6,Shopping,2618.55,68.05,40,Female,Mumbai,Desktop,Churned,21,Saturday,Returning
+16:39.4,User_83,Txn_7,Shopping,3939.9,94,59,Female,Mumbai,Mobile,New,23,Wednesday,Returning
+16:39.4,User_87,Txn_8,Shopping,2043.06,74.59,61,Female,Mumbai,Mobile,New,21,Sunday,Returning
+16:39.4,User_75,Txn_9,Peer-to-Peer,3148.22,25.42,31,Male,Hyderabad,Desktop,New,0,Saturday,Returning
+16:39.4,User_75,Txn_10,Bill Payment,4325.58,7.96,31,Other,Chennai,Mobile,New,3,Thursday,Returning
+16:39.4,User_88,Txn_11,Recharge,4752.65,29.92,19,Male,Delhi,Mobile,New,12,Sunday,Returning
+16:39.4,User_100,Txn_12,Recharge,820.66,61.53,54,Other,Hyderabad,Tablet,Churned,22,Saturday,New
+16:39.4,User_24,Txn_13,Peer-to-Peer,4640.28,9.89,22,Female,Hyderabad,Tablet,New,12,Friday,New
+16:39.4,User_3,Txn_14,Recharge,2511.37,52.15,55,Male,Delhi,Tablet,Retained,12,Saturday,New
+16:39.4,User_22,Txn_15,Shopping,1365.4,61.7,62,Other,Mumbai,Tablet,Retained,1,Friday,Returning
+16:39.4,User_53,Txn_16,Bill Payment,2349.77,36.75,58,Other,Pune,Mobile,Churned,8,Monday,Returning
+16:39.4,User_2,Txn_17,Food Delivery,4902.16,78.24,64,Female,Delhi,Desktop,Retained,23,Wednesday,Returning
+16:39.4,User_88,Txn_18,Recharge,2513.83,15.13,31,Male,Chennai,Mobile,Churned,7,Sunday,New
+16:39.4,User_30,Txn_19,Shopping,1710.88,12.14,56,Male,Kolkata,Mobile,Churned,6,Sunday,Returning
+16:39.4,User_38,Txn_20,Food Delivery,3203.66,74.18,42,Male,Kolkata,Mobile,Retained,3,Tuesday,Returning
+16:39.4,User_2,Txn_21,Bill Payment,1276.71,52.07,37,Female,Ahmedabad,Tablet,New,17,Tuesday,New
+16:39.4,User_64,Txn_22,Food Delivery,471.73,70.4,19,Male,Ahmedabad,Tablet,Retained,2,Wednesday,Returning
+16:39.4,User_60,Txn_23,Shopping,731.51,46.31,56,Female,Hyderabad,Tablet,Retained,5,Tuesday,New
+16:39.4,User_21,Txn_24,Food Delivery,727.42,28.41,23,Female,Kolkata,Desktop,Churned,11,Sunday,New
+16:39.4,User_33,Txn_25,Peer-to-Peer,844.32,82.81,34,Female,Pune,Mobile,Retained,11,Saturday,Returning
+16:39.4,User_76,Txn_26,Food Delivery,780.25,80.94,42,Other,Mumbai,Desktop,Churned,20,Monday,Returning
+16:39.4,User_58,Txn_27,Recharge,3240.29,71,45,Male,Chennai,Tablet,New,7,Monday,Returning
+16:39.4,User_22,Txn_28,Recharge,991.21,30.85,19,Male,Ahmedabad,Desktop,New,21,Wednesday,New
+16:39.4,User_89,Txn_29,Peer-to-Peer,1793.77,61.07,52,Female,Pune,Mobile,New,21,Tuesday,New
+16:39.4,User_49,Txn_30,Shopping,4494.26,39.29,54,Female,Chennai,Mobile,Retained,0,Saturday,New
+16:39.4,User_91,Txn_31,Recharge,2422.41,13.7,22,Male,Chennai,Tablet,Churned,3,Monday,Returning
+16:39.4,User_59,Txn_32,Bill Payment,3371.03,92.14,18,Female,Mumbai,Tablet,New,20,Monday,Returning
+16:39.4,User_42,Txn_33,Recharge,944.37,18,57,Male,Hyderabad,Desktop,Churned,10,Thursday,Returning
+16:39.4,User_92,Txn_34,Recharge,1042.22,95.27,29,Other,Kolkata,Tablet,Churned,2,Thursday,Returning
+16:39.4,User_60,Txn_35,Shopping,300.26,47.37,53,Female,Mumbai,Tablet,New,12,Sunday,New
+16:39.4,User_80,Txn_36,Food Delivery,927.78,22.59,62,Male,Pune,Mobile,New,16,Monday,New
+16:39.4,User_15,Txn_37,Recharge,1465.09,56.48,40,Female,Hyderabad,Tablet,Churned,21,Wednesday,New
+16:39.4,User_62,Txn_38,Peer-to-Peer,967.35,87.93,64,Male,Pune,Tablet,New,21,Friday,New
+16:39.4,User_62,Txn_39,Food Delivery,534.64,74.56,48,Male,Hyderabad,Mobile,Churned,9,Friday,Returning
+16:39.4,User_47,Txn_40,Bill Payment,691.12,81.62,28,Female,Ahmedabad,Mobile,Churned,20,Saturday,Returning
+16:39.4,User_62,Txn_41,Shopping,2357.82,67.58,27,Other,Pune,Desktop,New,11,Monday,Returning
+16:39.4,User_51,Txn_42,Bill Payment,1111.04,70.77,20,Male,Mumbai,Tablet,Retained,14,Monday,New
+16:39.4,User_55,Txn_43,Food Delivery,1884.92,85.67,31,Male,Hyderabad,Mobile,New,20,Sunday,New
+16:39.4,User_64,Txn_44,Food Delivery,2566.74,28.72,33,Male,Hyderabad,Desktop,Retained,9,Monday,Returning
+16:39.4,User_3,Txn_45,Food Delivery,3482.93,51.5,27,Other,Chennai,Desktop,Churned,13,Wednesday,Returning
+16:39.4,User_51,Txn_46,Bill Payment,292.63,26.01,46,Other,Chennai,Tablet,Churned,12,Thursday,New
+16:39.4,User_7,Txn_47,Food Delivery,4017.11,98.83,27,Female,Delhi,Tablet,Retained,4,Monday,Returning
+16:39.4,User_21,Txn_48,Bill Payment,3176.71,94.69,29,Other,Pune,Desktop,Churned,5,Monday,New
+16:39.4,User_73,Txn_49,Food Delivery,500.62,8.75,47,Female,Chennai,Mobile,Retained,23,Sunday,New
+16:39.4,User_39,Txn_50,Peer-to-Peer,4380.54,72.03,58,Female,Delhi,Desktop,Retained,1,Tuesday,New
+16:39.4,User_18,Txn_51,Food Delivery,4612.27,92.9,18,Other,Ahmedabad,Tablet,Churned,21,Sunday,Returning
+16:39.4,User_4,Txn_52,Bill Payment,399.28,22.15,22,Female,Ahmedabad,Mobile,Retained,16,Sunday,Returning
+16:39.4,User_89,Txn_53,Recharge,1456.7,58.95,37,Other,Chennai,Mobile,New,3,Wednesday,New
+16:39.4,User_60,Txn_54,Food Delivery,4050.39,91.97,25,Female,Pune,Desktop,New,13,Saturday,Returning
+16:39.4,User_14,Txn_55,Recharge,3766.47,8.22,60,Other,Hyderabad,Tablet,Churned,9,Monday,New
+16:39.4,User_9,Txn_56,Peer-to-Peer,1004.15,71.25,29,Other,Kolkata,Desktop,Churned,2,Sunday,New
+16:39.4,User_90,Txn_57,Shopping,1125.81,33.25,18,Female,Pune,Desktop,Retained,2,Sunday,New
+16:39.4,User_53,Txn_58,Peer-to-Peer,1915.31,92.82,37,Male,Mumbai,Desktop,Retained,14,Tuesday,New
+16:39.4,User_2,Txn_59,Food Delivery,2474.16,97.25,45,Female,Ahmedabad,Mobile,Retained,5,Sunday,Returning
+16:39.4,User_84,Txn_60,Recharge,3129.45,94.71,60,Other,Chennai,Mobile,Retained,16,Friday,New
+16:39.4,User_92,Txn_61,Recharge,1907.68,50.05,54,Male,Chennai,Tablet,New,11,Saturday,New
+16:39.4,User_60,Txn_62,Bill Payment,2366.42,86.89,64,Female,Hyderabad,Tablet,New,21,Monday,Returning
+16:39.4,User_71,Txn_63,Recharge,3762.61,85.23,54,Female,Mumbai,Desktop,Churned,19,Monday,New
+16:39.4,User_44,Txn_64,Bill Payment,279.75,35.31,29,Female,Hyderabad,Desktop,Retained,23,Tuesday,New
+16:39.4,User_8,Txn_65,Shopping,1336.94,83.75,54,Male,Mumbai,Desktop,Retained,10,Wednesday,Returning
+16:39.4,User_47,Txn_66,Food Delivery,3595.41,8.52,61,Other,Kolkata,Tablet,Churned,3,Monday,Returning
+16:39.4,User_35,Txn_67,Bill Payment,4486.51,61.65,45,Female,Ahmedabad,Mobile,Retained,5,Friday,Returning
+16:39.4,User_78,Txn_68,Shopping,2607.22,26.85,64,Female,Chennai,Mobile,Retained,0,Monday,New
+16:39.4,User_81,Txn_69,Recharge,2707.36,16.45,32,Female,Chennai,Desktop,Retained,19,Friday,Returning
+16:39.4,User_36,Txn_70,Recharge,625.14,12.31,23,Female,Kolkata,Desktop,Retained,22,Saturday,Returning
+16:39.4,User_50,Txn_71,Shopping,2292.32,71.15,61,Female,Delhi,Desktop,Retained,15,Saturday,New
+16:39.4,User_4,Txn_72,Recharge,2709.82,37.29,37,Other,Ahmedabad,Desktop,Churned,14,Thursday,New
+16:39.4,User_2,Txn_73,Shopping,1288.11,73.85,31,Other,Hyderabad,Tablet,Retained,16,Thursday,New
+16:39.4,User_6,Txn_74,Bill Payment,1419.29,11.21,19,Female,Kolkata,Mobile,Churned,7,Friday,New
+16:39.4,User_54,Txn_75,Bill Payment,1948.69,34.95,26,Male,Hyderabad,Desktop,Retained,11,Wednesday,New
+16:39.4,User_4,Txn_76,Shopping,198.35,56.25,54,Other,Pune,Tablet,New,21,Monday,Returning
+16:39.4,User_54,Txn_77,Bill Payment,1678.19,80.12,37,Male,Chennai,Desktop,New,20,Sunday,Returning
+16:39.4,User_93,Txn_78,Bill Payment,1136.1,35.28,43,Other,Hyderabad,Desktop,New,9,Monday,Returning
+16:39.4,User_63,Txn_79,Bill Payment,1704.74,64.46,46,Female,Mumbai,Mobile,New,14,Thursday,New
+16:39.4,User_18,Txn_80,Peer-to-Peer,686.83,89.17,18,Other,Hyderabad,Desktop,Churned,8,Sunday,New
+16:39.4,User_90,Txn_81,Food Delivery,4463.58,63.51,52,Female,Pune,Mobile,Churned,1,Friday,New
+16:39.4,User_44,Txn_82,Recharge,3008.6,27.13,23,Other,Ahmedabad,Mobile,Retained,4,Sunday,Returning
+16:39.4,User_34,Txn_83,Peer-to-Peer,3427.6,7.32,54,Female,Chennai,Mobile,New,5,Monday,Returning
+16:39.4,User_74,Txn_84,Bill Payment,3966.94,87.66,22,Female,Kolkata,Tablet,Churned,6,Monday,New
+16:39.4,User_62,Txn_85,Shopping,2542.37,7.02,50,Female,Pune,Tablet,Retained,20,Wednesday,Returning
+16:39.4,User_100,Txn_86,Bill Payment,525.91,88.1,31,Female,Chennai,Mobile,Retained,0,Tuesday,New
+16:39.4,User_14,Txn_87,Food Delivery,2731.82,55.25,29,Male,Hyderabad,Desktop,Churned,22,Sunday,Returning
+16:39.4,User_95,Txn_88,Bill Payment,2975.52,94.21,59,Female,Ahmedabad,Mobile,New,6,Thursday,Returning
+16:39.4,User_48,Txn_89,Shopping,3752.65,80.88,37,Male,Delhi,Desktop,Retained,19,Thursday,Returning
+16:39.4,User_15,Txn_90,Food Delivery,2215.13,99.8,41,Male,Ahmedabad,Mobile,New,11,Tuesday,New
+16:39.4,User_72,Txn_91,Bill Payment,725.14,38.32,60,Female,Delhi,Desktop,New,15,Monday,Returning
+16:39.4,User_78,Txn_92,Food Delivery,1490.5,77.88,51,Male,Mumbai,Tablet,New,15,Wednesday,Returning
+16:39.4,User_87,Txn_93,Recharge,1879.1,43.18,42,Other,Ahmedabad,Desktop,Retained,10,Wednesday,New
+16:39.4,User_62,Txn_94,Recharge,3264.99,50.59,46,Female,Chennai,Mobile,New,20,Thursday,Returning
+16:39.4,User_40,Txn_95,Bill Payment,2896.81,64.61,56,Male,Delhi,Tablet,Retained,3,Wednesday,New
+16:39.4,User_85,Txn_96,Food Delivery,1844.87,88,48,Female,Kolkata,Desktop,New,12,Saturday,New
+16:39.4,User_80,Txn_97,Shopping,4933.92,98.49,64,Female,Chennai,Desktop,Retained,6,Tuesday,New
+16:39.4,User_82,Txn_98,Bill Payment,3068.3,77.99,60,Female,Kolkata,Desktop,New,3,Monday,New
+16:39.4,User_53,Txn_99,Recharge,1262.41,44.69,40,Male,Ahmedabad,Desktop,Churned,14,Saturday,New
+16:39.4,User_24,Txn_100,Recharge,598.73,45.03,61,Other,Kolkata,Desktop,New,18,Tuesday,Returning
+16:39.4,User_26,Txn_101,Bill Payment,849.01,75.07,55,Other,Delhi,Tablet,New,8,Friday,New
+16:39.4,User_89,Txn_102,Food Delivery,1305.19,27.68,37,Male,Chennai,Tablet,Retained,10,Sunday,New
+16:39.4,User_60,Txn_103,Recharge,887.34,15.5,40,Female,Hyderabad,Tablet,Retained,7,Thursday,New
+16:39.4,User_41,Txn_104,Food Delivery,1014.18,38.69,62,Male,Pune,Tablet,New,0,Wednesday,New
+16:39.4,User_29,Txn_105,Recharge,1496.97,32.29,33,Male,Delhi,Mobile,Churned,22,Friday,Returning
+16:39.4,User_15,Txn_106,Recharge,949.53,33.15,59,Male,Delhi,Tablet,Churned,23,Wednesday,New
+16:39.4,User_45,Txn_107,Peer-to-Peer,4494.15,27.19,25,Female,Hyderabad,Desktop,Retained,7,Saturday,Returning
+16:39.4,User_65,Txn_108,Recharge,493.15,9,38,Male,Chennai,Desktop,Churned,12,Monday,New
+16:39.4,User_89,Txn_109,Shopping,2670.11,6.7,18,Female,Chennai,Tablet,New,21,Monday,Returning
+16:39.4,User_71,Txn_110,Bill Payment,2110.94,98.83,25,Male,Ahmedabad,Desktop,Retained,3,Monday,New
+16:39.4,User_9,Txn_111,Bill Payment,4913.66,45.64,46,Other,Kolkata,Tablet,New,7,Wednesday,New
+16:39.4,User_88,Txn_112,Food Delivery,648.99,41.51,49,Male,Ahmedabad,Desktop,Retained,2,Friday,Returning
+16:39.4,User_1,Txn_113,Recharge,2049.49,69.57,55,Male,Hyderabad,Mobile,Retained,8,Monday,New
+16:39.4,User_8,Txn_114,Shopping,4850.41,25.73,22,Other,Ahmedabad,Mobile,Retained,1,Friday,Returning
+16:39.4,User_88,Txn_115,Food Delivery,4340.98,95.25,64,Female,Hyderabad,Tablet,Retained,1,Wednesday,New
+16:39.4,User_63,Txn_116,Peer-to-Peer,4103.65,79.7,39,Female,Chennai,Tablet,Churned,12,Saturday,Returning
+16:39.4,User_11,Txn_117,Food Delivery,1363.72,13.49,64,Male,Kolkata,Tablet,New,14,Friday,New
+16:39.4,User_81,Txn_118,Food Delivery,937.35,44.67,51,Other,Ahmedabad,Desktop,New,22,Saturday,New
+16:39.4,User_8,Txn_119,Recharge,3376.35,88.52,18,Female,Delhi,Tablet,New,11,Wednesday,Returning
+16:39.4,User_35,Txn_120,Peer-to-Peer,4653.94,94.75,43,Male,Mumbai,Mobile,Retained,3,Wednesday,New
+16:39.4,User_35,Txn_121,Food Delivery,2828.14,49.4,60,Other,Pune,Desktop,Churned,7,Thursday,New
+16:39.4,User_33,Txn_122,Shopping,2900.9,63.27,27,Female,Delhi,Tablet,New,8,Wednesday,New
+16:39.4,User_5,Txn_123,Shopping,1471.9,20.87,47,Female,Chennai,Desktop,Churned,22,Wednesday,New
+16:39.4,User_41,Txn_124,Bill Payment,3870.52,99.16,35,Other,Pune,Desktop,Retained,4,Tuesday,New
+16:39.4,User_28,Txn_125,Peer-to-Peer,1016.51,27.01,34,Other,Mumbai,Tablet,New,23,Monday,New
+16:39.4,User_7,Txn_126,Peer-to-Peer,1686.03,94.56,43,Other,Mumbai,Desktop,Churned,19,Thursday,Returning
+16:39.4,User_73,Txn_127,Bill Payment,2184.64,66.72,25,Other,Kolkata,Mobile,Retained,17,Sunday,Returning
+16:39.4,User_72,Txn_128,Food Delivery,2587.29,62.73,64,Male,Pune,Mobile,Churned,10,Thursday,Returning
+16:39.4,User_12,Txn_129,Peer-to-Peer,1287.81,53.71,57,Other,Kolkata,Desktop,New,14,Thursday,New
+16:39.4,User_34,Txn_130,Shopping,662.7,26.91,29,Female,Delhi,Tablet,New,21,Sunday,Returning
+16:39.4,User_33,Txn_131,Shopping,3092.04,21.77,44,Female,Hyderabad,Desktop,Retained,8,Tuesday,New
+16:39.4,User_48,Txn_132,Recharge,1514.29,25.95,25,Male,Hyderabad,Mobile,Retained,16,Saturday,New
+16:39.4,User_23,Txn_133,Peer-to-Peer,2948.07,22.71,42,Female,Hyderabad,Desktop,Retained,11,Wednesday,New
+16:39.4,User_62,Txn_134,Food Delivery,856.38,79.06,63,Female,Pune,Desktop,Churned,6,Monday,New
+16:39.4,User_88,Txn_135,Bill Payment,2457.59,38.26,21,Other,Hyderabad,Mobile,Churned,9,Friday,Returning
+16:39.4,User_37,Txn_136,Bill Payment,2709.69,10.5,50,Female,Delhi,Desktop,Churned,9,Sunday,New
+16:39.4,User_99,Txn_137,Food Delivery,353.94,97.06,18,Male,Kolkata,Desktop,Retained,12,Saturday,Returning
+16:39.4,User_44,Txn_138,Recharge,1749.36,88.96,36,Other,Pune,Tablet,New,18,Sunday,New
+16:39.4,User_86,Txn_139,Bill Payment,758.63,93.14,48,Other,Kolkata,Tablet,New,10,Wednesday,Returning
+16:39.4,User_91,Txn_140,Peer-to-Peer,410.54,99.52,33,Male,Pune,Mobile,Churned,12,Tuesday,Returning
+16:39.4,User_35,Txn_141,Recharge,4950.81,21.52,31,Other,Kolkata,Mobile,Churned,20,Sunday,Returning
+16:39.4,User_65,Txn_142,Peer-to-Peer,1679.53,42.64,22,Other,Mumbai,Mobile,New,7,Wednesday,Returning
+16:39.4,User_99,Txn_143,Shopping,4068.38,77.03,58,Male,Kolkata,Tablet,New,7,Wednesday,Returning
+16:39.4,User_47,Txn_144,Recharge,1347.74,71.12,43,Other,Hyderabad,Mobile,Churned,3,Tuesday,Returning
+16:39.4,User_78,Txn_145,Bill Payment,3439.36,19.62,45,Male,Mumbai,Mobile,Churned,14,Thursday,New
+16:39.4,User_3,Txn_146,Recharge,3825.12,82.5,19,Male,Kolkata,Mobile,New,10,Thursday,Returning
+16:39.4,User_1,Txn_147,Recharge,3018.63,26.32,23,Female,Pune,Tablet,Retained,10,Monday,New
+16:39.4,User_5,Txn_148,Recharge,2410.72,26.26,26,Female,Pune,Desktop,Churned,0,Monday,Returning
+16:39.4,User_90,Txn_149,Recharge,2118.02,56.01,50,Other,Pune,Mobile,New,16,Thursday,New
+16:39.4,User_14,Txn_150,Peer-to-Peer,1809.45,61.33,58,Other,Chennai,Desktop,New,14,Saturday,Returning
+16:39.4,User_27,Txn_151,Shopping,4654.69,60.11,42,Male,Delhi,Mobile,New,19,Friday,Returning
+16:39.4,User_9,Txn_152,Food Delivery,4170.04,13.69,30,Other,Pune,Desktop,New,5,Wednesday,New
+16:39.4,User_79,Txn_153,Recharge,4828.63,88.36,26,Male,Mumbai,Tablet,Retained,23,Friday,Returning
+16:39.4,User_15,Txn_154,Bill Payment,709.06,30.23,30,Male,Pune,Tablet,New,21,Wednesday,Returning
+16:39.4,User_90,Txn_155,Recharge,3681.25,17.3,48,Other,Chennai,Mobile,Churned,14,Thursday,Returning
+16:39.4,User_42,Txn_156,Bill Payment,4697.87,89.43,58,Male,Hyderabad,Desktop,Retained,8,Monday,New
+16:39.4,User_77,Txn_157,Peer-to-Peer,988.04,95.79,28,Female,Mumbai,Tablet,New,13,Saturday,Returning
+16:39.4,User_51,Txn_158,Bill Payment,425.83,86.9,21,Other,Chennai,Mobile,Retained,17,Monday,New
+16:39.4,User_63,Txn_159,Food Delivery,3731.49,81.9,51,Female,Hyderabad,Mobile,Churned,16,Friday,Returning
+16:39.4,User_96,Txn_160,Shopping,2914.92,67.25,55,Other,Ahmedabad,Tablet,New,17,Monday,Returning
+16:39.4,User_52,Txn_161,Bill Payment,4224.96,57.33,63,Male,Ahmedabad,Tablet,Churned,4,Thursday,New
+16:39.4,User_96,Txn_162,Bill Payment,784.88,13.26,21,Other,Mumbai,Mobile,New,19,Saturday,Returning
+16:39.4,User_4,Txn_163,Shopping,3996.81,43.8,55,Female,Kolkata,Desktop,New,19,Friday,Returning
+16:39.4,User_94,Txn_164,Food Delivery,1087.97,40.41,36,Male,Delhi,Desktop,New,8,Saturday,New
+16:39.4,User_23,Txn_165,Recharge,901.91,29.68,23,Other,Delhi,Desktop,New,10,Wednesday,Returning
+16:39.4,User_15,Txn_166,Bill Payment,904.9,73.72,51,Other,Chennai,Mobile,New,23,Monday,New
+16:39.4,User_43,Txn_167,Shopping,4091.42,52.11,35,Other,Hyderabad,Tablet,Retained,21,Saturday,New
+16:39.4,User_29,Txn_168,Peer-to-Peer,3359.47,12.7,30,Female,Delhi,Mobile,New,0,Tuesday,New
+16:39.4,User_36,Txn_169,Shopping,2663.02,25.92,58,Female,Hyderabad,Tablet,New,17,Monday,Returning
+16:39.4,User_13,Txn_170,Peer-to-Peer,1858.27,69.91,40,Other,Hyderabad,Desktop,Retained,5,Wednesday,New
+16:39.4,User_32,Txn_171,Food Delivery,4398.28,12.23,36,Male,Chennai,Desktop,Retained,1,Saturday,New
+16:39.4,User_71,Txn_172,Recharge,2022.98,85.86,62,Male,Chennai,Tablet,Retained,14,Friday,Returning
+16:39.4,User_59,Txn_173,Shopping,4101.34,52.04,28,Female,Chennai,Tablet,Retained,20,Wednesday,New
+16:39.4,User_86,Txn_174,Bill Payment,2251.76,50.66,18,Male,Delhi,Mobile,Retained,13,Tuesday,Returning
+16:39.4,User_28,Txn_175,Food Delivery,1947.03,61.28,41,Female,Ahmedabad,Desktop,Retained,4,Saturday,Returning
+16:39.4,User_66,Txn_176,Shopping,2367.13,83.34,24,Other,Chennai,Mobile,New,5,Sunday,Returning
+16:39.4,User_42,Txn_177,Bill Payment,1576.75,38.04,42,Female,Delhi,Mobile,New,5,Sunday,Returning
+16:39.4,User_45,Txn_178,Shopping,3763.29,69.41,38,Female,Chennai,Mobile,Churned,21,Thursday,New
+16:39.4,User_62,Txn_179,Peer-to-Peer,2563.33,58.74,32,Other,Pune,Desktop,New,17,Monday,New
+16:39.4,User_57,Txn_180,Shopping,1237.84,30.37,18,Male,Hyderabad,Mobile,New,13,Friday,New
+16:39.4,User_6,Txn_181,Shopping,4507.92,88.47,29,Female,Chennai,Mobile,Retained,9,Thursday,New
+16:39.4,User_28,Txn_182,Shopping,1981.07,80.76,24,Female,Mumbai,Mobile,Retained,13,Saturday,New
+16:39.4,User_28,Txn_183,Food Delivery,2763.41,67.55,32,Other,Hyderabad,Mobile,New,12,Sunday,Returning
+16:39.4,User_44,Txn_184,Shopping,4541.71,85.81,38,Male,Hyderabad,Mobile,Churned,2,Sunday,New
+16:39.4,User_84,Txn_185,Bill Payment,3158.77,87.39,36,Female,Chennai,Mobile,Retained,5,Sunday,New
+16:39.4,User_30,Txn_186,Peer-to-Peer,672.8,72.29,46,Other,Ahmedabad,Desktop,New,7,Saturday,New
+16:39.4,User_62,Txn_187,Peer-to-Peer,4705.18,84.52,42,Female,Kolkata,Mobile,New,11,Sunday,Returning
+16:39.4,User_75,Txn_188,Shopping,3175.77,71.26,50,Other,Ahmedabad,Tablet,Churned,12,Wednesday,Returning
+16:39.4,User_92,Txn_189,Food Delivery,1741.04,69.61,49,Male,Chennai,Mobile,Churned,10,Saturday,New
+16:39.4,User_89,Txn_190,Food Delivery,782.43,63.77,52,Male,Hyderabad,Mobile,Retained,11,Friday,Returning
+16:39.4,User_62,Txn_191,Bill Payment,3990.72,76.51,61,Male,Mumbai,Desktop,Churned,0,Thursday,New
+16:39.4,User_97,Txn_192,Shopping,3138.36,20.07,55,Male,Hyderabad,Desktop,New,16,Friday,New
+16:39.4,User_1,Txn_193,Peer-to-Peer,2713.96,88.68,43,Female,Ahmedabad,Tablet,New,15,Tuesday,Returning
+16:39.4,User_27,Txn_194,Food Delivery,4480.07,87.83,28,Female,Mumbai,Tablet,Churned,10,Sunday,Returning
+16:39.4,User_62,Txn_195,Shopping,3964.13,7.78,52,Male,Delhi,Desktop,Churned,12,Tuesday,New
+16:39.4,User_77,Txn_196,Food Delivery,843.21,83.45,25,Male,Pune,Desktop,Churned,17,Monday,New
+16:39.4,User_3,Txn_197,Food Delivery,1627.44,17.24,63,Male,Hyderabad,Mobile,Churned,10,Monday,Returning
+16:39.4,User_70,Txn_198,Peer-to-Peer,1317.6,36.84,31,Female,Chennai,Desktop,Retained,11,Tuesday,New
+16:39.4,User_72,Txn_199,Recharge,3745.34,75.63,27,Male,Delhi,Tablet,Churned,5,Saturday,Returning
+16:39.4,User_27,Txn_200,Bill Payment,264.31,20.27,19,Male,Pune,Mobile,Retained,8,Friday,New
+16:39.4,User_9,Txn_201,Bill Payment,2892.46,82.71,63,Male,Chennai,Tablet,New,15,Tuesday,Returning
+16:39.4,User_62,Txn_202,Peer-to-Peer,3836.05,84.05,26,Other,Kolkata,Mobile,Churned,3,Monday,New
+16:39.4,User_37,Txn_203,Food Delivery,4396.15,53.21,20,Male,Chennai,Desktop,Retained,2,Tuesday,New
+16:39.4,User_97,Txn_204,Shopping,1776.2,5.61,38,Other,Mumbai,Tablet,Churned,15,Saturday,Returning
+16:39.4,User_51,Txn_205,Food Delivery,4124.16,32.27,43,Other,Mumbai,Mobile,New,23,Tuesday,New
+16:39.4,User_44,Txn_206,Peer-to-Peer,642.1,63.61,25,Male,Kolkata,Mobile,New,11,Friday,New
+16:39.4,User_24,Txn_207,Bill Payment,4247.62,98.21,19,Other,Delhi,Desktop,New,10,Thursday,Returning
+16:39.4,User_79,Txn_208,Food Delivery,724.69,65.02,23,Male,Pune,Desktop,Churned,4,Saturday,New
+16:39.4,User_59,Txn_209,Bill Payment,2046.71,29.68,45,Female,Chennai,Desktop,Churned,17,Monday,New
+16:39.4,User_32,Txn_210,Shopping,4006.75,65.23,46,Female,Mumbai,Tablet,Retained,18,Friday,New
+16:39.4,User_96,Txn_211,Bill Payment,834.6,56.3,43,Female,Delhi,Mobile,New,22,Tuesday,Returning
+16:39.4,User_88,Txn_212,Bill Payment,1223.33,79.09,42,Female,Kolkata,Desktop,Churned,22,Tuesday,Returning
+16:39.4,User_52,Txn_213,Recharge,3639.04,15.16,29,Other,Ahmedabad,Tablet,New,5,Thursday,Returning
+16:39.4,User_62,Txn_214,Recharge,3628.18,77.3,22,Male,Hyderabad,Tablet,New,21,Monday,New
+16:39.4,User_58,Txn_215,Recharge,3241.62,56.42,51,Male,Ahmedabad,Tablet,Retained,17,Monday,New
+16:39.4,User_52,Txn_216,Bill Payment,3500.35,96.48,54,Male,Ahmedabad,Desktop,Retained,5,Wednesday,New
+16:39.4,User_12,Txn_217,Peer-to-Peer,2759.35,37.48,32,Female,Mumbai,Desktop,Retained,3,Monday,New
+16:39.4,User_39,Txn_218,Bill Payment,1333.82,65.1,61,Female,Kolkata,Mobile,Retained,11,Thursday,Returning
+16:39.4,User_2,Txn_219,Peer-to-Peer,1793.91,93.54,53,Male,Chennai,Mobile,New,18,Sunday,New
+16:39.4,User_3,Txn_220,Peer-to-Peer,989.83,14.74,32,Female,Ahmedabad,Desktop,Retained,1,Wednesday,New
+16:39.4,User_56,Txn_221,Recharge,4551.41,94.04,60,Male,Ahmedabad,Tablet,Retained,16,Wednesday,New
+16:39.4,User_81,Txn_222,Food Delivery,2958.62,70.35,40,Male,Pune,Tablet,Retained,10,Tuesday,Returning
+16:39.4,User_59,Txn_223,Shopping,2064.17,11.44,23,Male,Mumbai,Tablet,Retained,10,Tuesday,New
+16:39.4,User_2,Txn_224,Recharge,2363.83,33.59,63,Male,Mumbai,Mobile,New,20,Monday,New
+16:39.4,User_2,Txn_225,Recharge,4741.69,72.28,61,Male,Chennai,Tablet,Retained,15,Wednesday,New
+16:39.4,User_92,Txn_226,Food Delivery,851.42,11.4,60,Male,Hyderabad,Mobile,New,1,Tuesday,New
+16:39.4,User_54,Txn_227,Shopping,2972.53,60.31,62,Male,Delhi,Mobile,Churned,1,Thursday,New
+16:39.4,User_87,Txn_228,Bill Payment,2578.85,37.86,38,Female,Pune,Tablet,New,22,Tuesday,Returning
+16:39.4,User_96,Txn_229,Bill Payment,3096.13,63.99,40,Male,Mumbai,Tablet,New,7,Saturday,New
+16:39.4,User_97,Txn_230,Recharge,188.74,9.35,60,Male,Pune,Desktop,Retained,12,Saturday,New
+16:39.4,User_1,Txn_231,Shopping,4373.41,87.8,33,Female,Mumbai,Desktop,Churned,9,Tuesday,New
+16:39.4,User_19,Txn_232,Recharge,4667.38,97.48,64,Female,Pune,Tablet,Churned,7,Wednesday,New
+16:39.4,User_2,Txn_233,Peer-to-Peer,2869.15,97.04,32,Female,Kolkata,Mobile,Churned,3,Sunday,New
+16:39.4,User_53,Txn_234,Recharge,3513.59,76.22,42,Male,Ahmedabad,Mobile,Churned,14,Sunday,New
+16:39.4,User_44,Txn_235,Recharge,4620.25,17.36,53,Other,Mumbai,Mobile,New,0,Wednesday,New
+16:39.4,User_90,Txn_236,Bill Payment,3565.47,77.04,28,Other,Pune,Mobile,Churned,10,Friday,New
+16:39.4,User_32,Txn_237,Bill Payment,847.44,7.34,32,Female,Delhi,Mobile,New,6,Sunday,New
+16:39.4,User_70,Txn_238,Bill Payment,2923.81,7.1,21,Other,Kolkata,Desktop,New,16,Saturday,New
+16:39.4,User_32,Txn_239,Peer-to-Peer,3072.9,35.74,38,Female,Kolkata,Tablet,New,19,Thursday,Returning
+16:39.4,User_68,Txn_240,Bill Payment,2178.24,51.42,30,Male,Delhi,Desktop,Churned,23,Wednesday,Returning
+16:39.4,User_55,Txn_241,Shopping,3708.58,78.19,39,Other,Pune,Mobile,Retained,17,Monday,Returning
+16:39.4,User_75,Txn_242,Food Delivery,4678.4,69.91,36,Male,Chennai,Mobile,Retained,21,Saturday,Returning
+16:39.4,User_56,Txn_243,Shopping,4635.29,47.36,51,Other,Delhi,Mobile,Churned,21,Thursday,New
+16:39.4,User_17,Txn_244,Shopping,2309.11,30.99,31,Male,Pune,Mobile,Retained,11,Thursday,Returning
+16:39.4,User_38,Txn_245,Bill Payment,654.87,99.73,21,Other,Delhi,Tablet,Retained,8,Wednesday,Returning
+16:39.4,User_24,Txn_246,Food Delivery,4925.72,45.49,63,Male,Delhi,Mobile,New,4,Thursday,New
+16:39.4,User_69,Txn_247,Food Delivery,4210.6,47.88,44,Male,Mumbai,Tablet,New,9,Wednesday,Returning
+16:39.4,User_98,Txn_248,Food Delivery,710.85,20.54,46,Other,Pune,Mobile,Churned,3,Sunday,Returning
+16:39.4,User_70,Txn_249,Peer-to-Peer,4612.13,80.51,64,Male,Chennai,Tablet,Churned,4,Tuesday,New
+16:39.4,User_86,Txn_250,Bill Payment,4362.49,70.9,45,Male,Ahmedabad,Desktop,Retained,9,Saturday,New
+16:39.4,User_11,Txn_251,Food Delivery,2642.31,25.97,52,Male,Mumbai,Mobile,New,10,Friday,New
+16:39.4,User_16,Txn_252,Peer-to-Peer,2997.25,12.83,25,Other,Delhi,Tablet,Churned,20,Tuesday,Returning
+16:39.4,User_97,Txn_253,Recharge,2055.11,69.65,33,Other,Ahmedabad,Desktop,Churned,23,Saturday,Returning
+16:39.4,User_73,Txn_254,Recharge,368.33,67.18,59,Male,Hyderabad,Mobile,Churned,9,Wednesday,New
+16:39.4,User_59,Txn_255,Peer-to-Peer,1742.47,30.96,53,Male,Ahmedabad,Mobile,Churned,7,Saturday,New
+16:39.4,User_70,Txn_256,Peer-to-Peer,4033.98,95.33,47,Other,Delhi,Mobile,Churned,1,Sunday,Returning
+16:39.4,User_80,Txn_257,Bill Payment,122.7,19.35,35,Other,Delhi,Tablet,Churned,22,Wednesday,New
+16:39.4,User_93,Txn_258,Bill Payment,1734.15,46.07,19,Male,Pune,Tablet,Retained,7,Tuesday,Returning
+16:39.4,User_3,Txn_259,Recharge,2051.03,94.64,30,Male,Pune,Desktop,New,15,Monday,New
+16:39.4,User_20,Txn_260,Food Delivery,2733.24,44.87,21,Male,Mumbai,Tablet,New,21,Monday,New
+16:39.4,User_59,Txn_261,Recharge,4607.29,65.66,43,Female,Chennai,Tablet,Churned,4,Saturday,Returning
+16:39.4,User_36,Txn_262,Food Delivery,1797.1,42.77,42,Other,Mumbai,Mobile,New,2,Monday,New
+16:39.4,User_19,Txn_263,Food Delivery,1800.07,31.05,47,Female,Kolkata,Mobile,New,11,Wednesday,New
+16:39.4,User_90,Txn_264,Bill Payment,3713.76,98.48,28,Other,Delhi,Mobile,New,12,Thursday,New
+16:39.4,User_67,Txn_265,Shopping,2315.87,43.89,24,Other,Ahmedabad,Mobile,Churned,12,Wednesday,Returning
+16:39.4,User_19,Txn_266,Shopping,1200.56,89.94,48,Other,Hyderabad,Mobile,Churned,9,Thursday,New
+16:39.4,User_20,Txn_267,Peer-to-Peer,2316.95,26.85,61,Other,Delhi,Mobile,New,3,Tuesday,New
+16:39.4,User_96,Txn_268,Bill Payment,790.2,25.24,27,Other,Delhi,Mobile,New,8,Friday,New
+16:39.4,User_71,Txn_269,Food Delivery,964.3,7.96,56,Other,Mumbai,Desktop,Churned,21,Thursday,New
+16:39.4,User_52,Txn_270,Shopping,2542,66.91,30,Other,Hyderabad,Desktop,Retained,23,Monday,New
+16:39.4,User_33,Txn_271,Food Delivery,2152.73,40.01,48,Female,Hyderabad,Desktop,New,22,Wednesday,New
+16:39.4,User_40,Txn_272,Shopping,4582.74,87.11,24,Male,Hyderabad,Desktop,Retained,1,Tuesday,Returning
+16:39.4,User_39,Txn_273,Shopping,1875.73,49.95,59,Male,Mumbai,Mobile,New,18,Monday,Returning
+16:39.4,User_82,Txn_274,Shopping,2944.88,96.98,59,Female,Delhi,Desktop,Retained,0,Tuesday,New
+16:39.4,User_1,Txn_275,Bill Payment,3198.1,22.62,53,Female,Mumbai,Mobile,Retained,6,Friday,Returning
+16:39.4,User_11,Txn_276,Recharge,164.16,87.52,37,Female,Pune,Desktop,Retained,16,Sunday,Returning
+16:39.4,User_92,Txn_277,Food Delivery,3351.33,78.78,21,Female,Pune,Tablet,Churned,2,Wednesday,New
+16:39.4,User_57,Txn_278,Bill Payment,972.38,78.24,24,Other,Mumbai,Desktop,Retained,19,Saturday,Returning
+16:39.4,User_89,Txn_279,Bill Payment,4809.24,85.25,18,Male,Hyderabad,Desktop,Retained,19,Wednesday,Returning
+16:39.4,User_50,Txn_280,Bill Payment,828.45,77.3,61,Other,Delhi,Mobile,Retained,20,Friday,Returning
+16:39.4,User_23,Txn_281,Bill Payment,2131.66,64.49,62,Male,Mumbai,Desktop,New,2,Wednesday,Returning
+16:39.4,User_31,Txn_282,Bill Payment,518.21,17.47,59,Male,Mumbai,Tablet,Retained,2,Saturday,Returning
+16:39.4,User_94,Txn_283,Peer-to-Peer,4984.68,8.09,64,Female,Mumbai,Mobile,New,16,Thursday,Returning
+16:39.4,User_42,Txn_284,Food Delivery,2560.76,92.48,30,Other,Kolkata,Mobile,Retained,6,Tuesday,Returning
+16:39.4,User_99,Txn_285,Bill Payment,3017.39,63.58,39,Female,Pune,Desktop,Retained,13,Saturday,Returning
+16:39.4,User_7,Txn_286,Food Delivery,428.67,80.67,38,Other,Ahmedabad,Mobile,Churned,16,Monday,New
+16:39.4,User_16,Txn_287,Peer-to-Peer,3774.81,50.74,39,Male,Hyderabad,Mobile,New,17,Friday,New
+16:39.4,User_90,Txn_288,Peer-to-Peer,1128.54,16.14,45,Female,Chennai,Mobile,Retained,12,Thursday,Returning
+16:39.4,User_60,Txn_289,Food Delivery,4500.47,16.89,26,Female,Ahmedabad,Mobile,New,19,Monday,Returning
+16:39.4,User_2,Txn_290,Shopping,1105.18,70.13,43,Male,Hyderabad,Mobile,New,19,Monday,New
+16:39.4,User_1,Txn_291,Recharge,1034.37,45.88,26,Male,Chennai,Mobile,Churned,20,Friday,Returning
+16:39.4,User_48,Txn_292,Shopping,279.09,24.05,32,Male,Kolkata,Tablet,Churned,17,Thursday,Returning
+16:39.4,User_12,Txn_293,Shopping,2413.13,51.7,27,Female,Mumbai,Desktop,Churned,3,Sunday,New
+16:39.4,User_69,Txn_294,Shopping,2867.72,11.1,41,Other,Kolkata,Tablet,Churned,0,Monday,New
+16:39.4,User_37,Txn_295,Bill Payment,421.97,60.29,59,Female,Kolkata,Mobile,Churned,17,Monday,New
+16:39.4,User_32,Txn_296,Peer-to-Peer,3900.09,30.55,25,Other,Ahmedabad,Mobile,Churned,0,Thursday,Returning
+16:39.4,User_9,Txn_297,Shopping,2321.12,80.77,41,Female,Delhi,Desktop,Churned,12,Wednesday,Returning
+16:39.4,User_99,Txn_298,Peer-to-Peer,2669.51,34.48,33,Female,Ahmedabad,Tablet,Churned,19,Monday,New
+16:39.4,User_19,Txn_299,Food Delivery,2259.74,48.25,43,Male,Pune,Desktop,Retained,19,Tuesday,New
+16:39.4,User_48,Txn_300,Recharge,2063.74,6.1,44,Other,Chennai,Tablet,New,22,Thursday,Returning
+16:39.4,User_80,Txn_301,Food Delivery,2842.24,11.88,54,Female,Mumbai,Mobile,Churned,9,Monday,New
+16:39.4,User_3,Txn_302,Food Delivery,860.68,42.29,21,Female,Ahmedabad,Desktop,Churned,10,Friday,Returning
+16:39.4,User_20,Txn_303,Bill Payment,991.45,50.59,41,Male,Chennai,Desktop,New,8,Saturday,Returning
+16:39.4,User_24,Txn_304,Recharge,4322.75,62,36,Male,Hyderabad,Mobile,Retained,8,Tuesday,New
+16:39.4,User_54,Txn_305,Food Delivery,4735.97,32.71,53,Other,Chennai,Desktop,New,4,Saturday,New
+16:39.4,User_33,Txn_306,Food Delivery,1929.22,71.02,56,Female,Hyderabad,Tablet,New,0,Saturday,Returning
+16:39.4,User_24,Txn_307,Recharge,1426.65,86.71,27,Other,Ahmedabad,Tablet,Churned,16,Monday,New
+16:39.4,User_75,Txn_308,Recharge,3255.6,79.09,42,Female,Pune,Tablet,New,21,Tuesday,New
+16:39.4,User_72,Txn_309,Food Delivery,2102.8,8.76,35,Other,Ahmedabad,Tablet,New,1,Tuesday,New
+16:39.4,User_36,Txn_310,Recharge,224.39,50.65,36,Male,Hyderabad,Mobile,Churned,23,Wednesday,New
+16:39.4,User_38,Txn_311,Food Delivery,865.15,14.97,53,Female,Chennai,Desktop,Churned,12,Saturday,Returning
+16:39.4,User_84,Txn_312,Food Delivery,3608.26,27.99,27,Other,Chennai,Tablet,Churned,8,Tuesday,Returning
+16:39.4,User_99,Txn_313,Bill Payment,3328.73,98.73,50,Male,Hyderabad,Mobile,Churned,3,Wednesday,Returning
+16:39.4,User_89,Txn_314,Shopping,232.77,18.54,22,Male,Kolkata,Desktop,New,4,Thursday,Returning
+16:39.4,User_99,Txn_315,Food Delivery,1187.66,52.39,64,Other,Pune,Desktop,New,10,Wednesday,New
+16:39.4,User_25,Txn_316,Peer-to-Peer,1232.27,63.72,52,Female,Delhi,Mobile,Retained,23,Friday,New
+16:39.4,User_93,Txn_317,Shopping,3392.27,71.73,61,Female,Mumbai,Mobile,Retained,18,Sunday,Returning
+16:39.4,User_18,Txn_318,Shopping,196.58,58.17,51,Male,Chennai,Tablet,New,20,Monday,Returning
+16:39.4,User_82,Txn_319,Shopping,610.13,5.93,50,Female,Mumbai,Desktop,Retained,2,Thursday,New
+16:39.4,User_66,Txn_320,Bill Payment,4019.59,36.01,38,Female,Delhi,Desktop,New,11,Sunday,Returning
+16:39.4,User_54,Txn_321,Food Delivery,974.87,54.18,34,Female,Ahmedabad,Mobile,Retained,18,Sunday,Returning
+16:39.4,User_35,Txn_322,Bill Payment,3298.46,13.35,39,Male,Mumbai,Desktop,Churned,18,Thursday,New
+16:39.4,User_80,Txn_323,Food Delivery,1267.1,38.31,54,Other,Delhi,Tablet,Retained,12,Friday,Returning
+16:39.4,User_61,Txn_324,Bill Payment,587.26,8.15,32,Female,Hyderabad,Desktop,Churned,6,Wednesday,New
+16:39.4,User_41,Txn_325,Bill Payment,1291.54,12.46,52,Male,Kolkata,Mobile,Churned,14,Monday,New
+16:39.4,User_100,Txn_326,Peer-to-Peer,3639.11,42.71,45,Male,Chennai,Mobile,Churned,22,Wednesday,Returning
+16:39.4,User_33,Txn_327,Bill Payment,4292.91,17.61,24,Other,Delhi,Tablet,Churned,6,Tuesday,New
+16:39.4,User_68,Txn_328,Recharge,4168.08,58.92,49,Female,Mumbai,Tablet,Retained,7,Wednesday,Returning
+16:39.4,User_33,Txn_329,Peer-to-Peer,2046.2,70.5,28,Female,Chennai,Desktop,New,4,Thursday,New
+16:39.4,User_14,Txn_330,Bill Payment,3373.62,81.06,27,Other,Kolkata,Desktop,Churned,20,Monday,Returning
+16:39.4,User_21,Txn_331,Shopping,1104.42,24.01,26,Other,Hyderabad,Mobile,Retained,13,Wednesday,Returning
+16:39.4,User_48,Txn_332,Recharge,1536.42,20.91,31,Male,Ahmedabad,Tablet,Churned,3,Monday,Returning
+16:39.4,User_20,Txn_333,Recharge,4492.05,14.93,30,Male,Chennai,Tablet,Retained,22,Monday,New
+16:39.4,User_8,Txn_334,Recharge,163.71,65.46,42,Other,Ahmedabad,Tablet,Retained,9,Tuesday,New
+16:39.4,User_7,Txn_335,Peer-to-Peer,518.99,72.12,19,Female,Delhi,Desktop,Retained,19,Tuesday,Returning
+16:39.4,User_67,Txn_336,Bill Payment,1118.64,8,52,Male,Kolkata,Tablet,New,14,Thursday,New
+16:39.4,User_17,Txn_337,Bill Payment,230.01,93.94,24,Male,Mumbai,Mobile,Retained,17,Friday,Returning
+16:39.4,User_33,Txn_338,Shopping,989.03,9.94,38,Female,Kolkata,Mobile,Retained,19,Sunday,Returning
+16:39.4,User_48,Txn_339,Shopping,2956.9,56.42,35,Male,Kolkata,Desktop,New,12,Monday,New
+16:39.4,User_76,Txn_340,Recharge,2164.98,72.36,20,Female,Pune,Desktop,New,7,Friday,Returning
+16:39.4,User_59,Txn_341,Shopping,4474.09,87.74,59,Female,Kolkata,Tablet,Retained,8,Sunday,New
+16:39.4,User_86,Txn_342,Peer-to-Peer,4105.47,72.84,56,Female,Kolkata,Desktop,New,15,Sunday,Returning
+16:39.4,User_22,Txn_343,Bill Payment,1774.91,81.16,58,Other,Chennai,Mobile,Churned,18,Thursday,New
+16:39.4,User_30,Txn_344,Recharge,1371.17,37.25,28,Other,Mumbai,Tablet,Churned,15,Sunday,Returning
+16:39.4,User_38,Txn_345,Shopping,1960.49,82.41,56,Other,Chennai,Mobile,New,6,Sunday,Returning
+16:39.4,User_51,Txn_346,Peer-to-Peer,2992.45,12.61,41,Female,Chennai,Tablet,New,13,Monday,New
+16:39.4,User_54,Txn_347,Peer-to-Peer,1413.51,90.01,63,Female,Delhi,Desktop,Retained,13,Monday,Returning
+16:39.4,User_8,Txn_348,Shopping,3158.33,57.02,36,Other,Chennai,Tablet,New,3,Saturday,Returning
+16:39.4,User_27,Txn_349,Bill Payment,2106.12,82.64,21,Male,Pune,Tablet,Retained,14,Friday,New
+16:39.4,User_27,Txn_350,Shopping,2805.03,47.97,43,Female,Pune,Mobile,Churned,2,Wednesday,Returning
+16:39.4,User_98,Txn_351,Recharge,2237.02,66.14,55,Male,Ahmedabad,Mobile,New,4,Tuesday,New
+16:39.4,User_21,Txn_352,Shopping,1542.88,55.01,59,Male,Delhi,Tablet,Retained,0,Wednesday,Returning
+16:39.4,User_30,Txn_353,Peer-to-Peer,4747.42,74.5,49,Female,Ahmedabad,Desktop,Retained,2,Friday,New
+16:39.4,User_97,Txn_354,Shopping,3841.67,12.75,56,Female,Ahmedabad,Desktop,Churned,14,Tuesday,Returning
+16:39.4,User_28,Txn_355,Bill Payment,786.55,10.73,62,Male,Hyderabad,Mobile,New,23,Wednesday,Returning
+16:39.4,User_64,Txn_356,Food Delivery,4355.49,28.47,63,Male,Mumbai,Desktop,Churned,7,Saturday,Returning
+16:39.4,User_97,Txn_357,Shopping,2488.41,20.16,53,Other,Mumbai,Mobile,Retained,3,Tuesday,New
+16:39.4,User_69,Txn_358,Bill Payment,4483.31,87.82,57,Other,Chennai,Desktop,Retained,1,Monday,New
+16:39.4,User_61,Txn_359,Bill Payment,4019.29,25.83,54,Female,Chennai,Tablet,New,23,Wednesday,New
+16:39.4,User_48,Txn_360,Peer-to-Peer,2183.55,97.71,50,Other,Hyderabad,Mobile,Retained,23,Tuesday,New
+16:39.4,User_19,Txn_361,Bill Payment,210.1,37.01,53,Other,Chennai,Mobile,New,9,Saturday,Returning
+16:39.4,User_4,Txn_362,Bill Payment,1416.52,22.3,20,Other,Mumbai,Tablet,Churned,3,Sunday,Returning
+16:39.4,User_35,Txn_363,Bill Payment,2754.01,80.02,26,Other,Ahmedabad,Mobile,New,2,Tuesday,New
+16:39.4,User_64,Txn_364,Bill Payment,3204.04,67.58,25,Male,Kolkata,Desktop,New,1,Tuesday,New
+16:39.4,User_49,Txn_365,Recharge,1363.65,52.33,50,Female,Pune,Desktop,Retained,16,Saturday,New
+16:39.4,User_17,Txn_366,Recharge,782.84,57.76,23,Other,Kolkata,Mobile,Retained,22,Sunday,Returning
+16:39.4,User_44,Txn_367,Peer-to-Peer,4191.16,73.32,58,Male,Kolkata,Desktop,New,20,Wednesday,New
+16:39.4,User_92,Txn_368,Shopping,4923.57,26.7,56,Male,Mumbai,Mobile,Retained,23,Thursday,New
+16:39.4,User_30,Txn_369,Bill Payment,2675.88,99.65,21,Male,Kolkata,Tablet,Retained,19,Wednesday,Returning
+16:39.4,User_93,Txn_370,Shopping,941.23,97.61,30,Other,Hyderabad,Mobile,Retained,22,Sunday,Returning
+16:39.4,User_46,Txn_371,Shopping,1434.31,66.78,19,Other,Delhi,Tablet,New,12,Friday,New
+16:39.4,User_6,Txn_372,Peer-to-Peer,190.11,23.96,22,Female,Chennai,Desktop,Retained,4,Saturday,Returning
+16:39.4,User_99,Txn_373,Bill Payment,4580.06,69.62,61,Other,Delhi,Tablet,New,20,Wednesday,New
+16:39.4,User_37,Txn_374,Bill Payment,676.98,11.86,44,Other,Ahmedabad,Desktop,Retained,8,Tuesday,Returning
+16:39.4,User_24,Txn_375,Food Delivery,2924.93,7.91,49,Male,Pune,Mobile,Churned,21,Saturday,New
+16:39.4,User_93,Txn_376,Shopping,1442.87,29.48,38,Female,Chennai,Desktop,Retained,5,Monday,New
+16:39.4,User_46,Txn_377,Shopping,2815.47,48.95,25,Other,Kolkata,Mobile,Retained,4,Sunday,New
+16:39.4,User_53,Txn_378,Recharge,3291.96,87.49,55,Other,Pune,Mobile,New,9,Wednesday,New
+16:39.4,User_95,Txn_379,Food Delivery,4165.73,74.08,25,Male,Chennai,Tablet,New,7,Saturday,Returning
+16:39.4,User_99,Txn_380,Recharge,1111.46,75.56,20,Male,Hyderabad,Tablet,Retained,6,Wednesday,Returning
+16:39.4,User_60,Txn_381,Recharge,153.88,45.42,61,Other,Hyderabad,Tablet,Churned,6,Saturday,Returning
+16:39.4,User_97,Txn_382,Recharge,770.74,37.86,20,Female,Hyderabad,Tablet,Retained,5,Tuesday,Returning
+16:39.4,User_63,Txn_383,Peer-to-Peer,4510.09,40.25,39,Female,Hyderabad,Desktop,Retained,20,Monday,New
+16:39.4,User_85,Txn_384,Peer-to-Peer,4382.06,98.83,23,Male,Kolkata,Desktop,Churned,19,Monday,New
+16:39.4,User_32,Txn_385,Recharge,3027.32,8.81,19,Male,Delhi,Desktop,New,2,Friday,Returning
+16:39.4,User_87,Txn_386,Food Delivery,3042.53,87.37,40,Other,Chennai,Mobile,Retained,18,Saturday,Returning
+16:39.4,User_33,Txn_387,Shopping,3358.68,59.97,61,Male,Kolkata,Desktop,New,21,Wednesday,Returning
+16:39.4,User_67,Txn_388,Food Delivery,959.32,46.67,19,Other,Hyderabad,Desktop,New,14,Monday,Returning
+16:39.4,User_18,Txn_389,Bill Payment,4580.62,73.9,55,Female,Ahmedabad,Desktop,Churned,3,Sunday,Returning
+16:39.4,User_25,Txn_390,Peer-to-Peer,2151.98,51.23,34,Female,Delhi,Tablet,Churned,11,Monday,New
+16:39.4,User_95,Txn_391,Shopping,1977.38,87.98,52,Other,Ahmedabad,Desktop,New,5,Thursday,New
+16:39.4,User_54,Txn_392,Shopping,2642.7,90.57,51,Male,Pune,Mobile,Retained,18,Thursday,New
+16:39.4,User_58,Txn_393,Bill Payment,330.13,45.06,40,Female,Ahmedabad,Tablet,New,3,Monday,Returning
+16:39.4,User_67,Txn_394,Bill Payment,914.79,31.3,47,Male,Pune,Mobile,Retained,14,Saturday,Returning
+16:39.4,User_46,Txn_395,Recharge,3716.36,61.27,25,Female,Pune,Desktop,Retained,8,Friday,Returning
+16:39.4,User_24,Txn_396,Peer-to-Peer,505.71,91.67,39,Other,Hyderabad,Tablet,Churned,4,Monday,Returning
+16:39.4,User_32,Txn_397,Peer-to-Peer,3055.45,25.01,61,Other,Pune,Mobile,Retained,12,Tuesday,New
+16:39.4,User_47,Txn_398,Food Delivery,1302.21,64.18,53,Other,Mumbai,Desktop,Retained,22,Wednesday,New
+16:39.4,User_86,Txn_399,Recharge,2007.55,65,22,Female,Chennai,Mobile,New,17,Friday,Returning
+16:39.4,User_23,Txn_400,Recharge,1514.6,74.65,30,Male,Chennai,Mobile,Churned,4,Tuesday,New
+,,Txn_396,,,,,,,,Churned,,Friday,
+,,Txn_397,,,null,,,,null,Retained,,Monday,null
+null,,Txn_398,null,,,,,,,Retained,,Tuesday,
+,,Txn_399,,,null,,,null,,,,,
+,,Txn_400,,,,,,,,,,,
