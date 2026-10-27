@@ -60,9 +60,15 @@ This project demonstrates how UPI transactional data can be transformed into act
 rmance, user behavior, and retention patterns, enabling data-driven decision making.
 
 
+
+
 <img width="1172" height="647" alt="upiimage1" src="https://github.com/user-attachments/assets/3bd18863-5496-40ef-bbc9-07e27b206692" />
 
+
+
 <img width="1177" height="661" alt="Upiiamge2" src="https://github.com/user-attachments/assets/7bfa4268-d3a4-4311-b5e2-3a50161a46af" />
+
+
 
 <img width="1166" height="665" alt="upiimage3" src="https://github.com/user-attachments/assets/7113f2b1-1633-4b2c-b968-d01f030eae2c" />
 
